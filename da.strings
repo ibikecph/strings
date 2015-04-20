@@ -314,6 +314,8 @@
 "milestone_daystreak_6_description" = "Du har cyklet %d dage i træk, det er imponerende!";
 "milestone_daystreak_7_description" = "Wow, på cyklen hver dag i en måned, du er en stjerne!";
 
+"weekly_status_description" = "Denne uge har du har cyklet %.1f km på %02d:%02d timer.";
+
 "to" = "til";
 "Duration" = "Tid";
 "Distance" = "Afstand";
