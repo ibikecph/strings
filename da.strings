@@ -1,7 +1,3 @@
-"language_dan" = "Dansk";
-"language_eng" = "English";
-"choose_language" = "Change language";
-
 "current_position" = "Nuværende position";
 "today" = "I dag";
 "tomorrow" = "I morgen";
@@ -100,6 +96,7 @@
 "direction_number_10" = "10.";
 "direction_number_11" = "11.";
 
+"new_route" = "Ny rute";
 "Stop" = "Stop";
 
 "Error" = "Fejl";
