@@ -252,7 +252,8 @@
 "close" = "LUK";
 
 "favorites_login" = "Du har ingen favoritter, men du kan hurtigt tilføje en, hvis du logger ind.";
-"fb_login_error" = "Facebook logind-fejl!";
+"fb_login_error" = "Facebook login-fejl!";
+"please_login" = "Du skal logge ind";
 "account_is_linked_to_facebook" = "Din konto er linket til Facebook";
 "or" = "eller";
 
