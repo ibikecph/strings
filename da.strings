@@ -227,6 +227,7 @@
 "save_changes" = "Gem ændringer";
 "account_name_placeholder" = "Navn";
 "account_email_placeholder" = "Email";
+"old_password" = "Gammel adgangskode";
 "account_password_placeholder" = "Skriv ny adgangskode";
 "account_repeat_placeholder" = "Gentag ny adgangskode";
 "accept_user_terms" = "Jeg accepterer brugerbetingelser";

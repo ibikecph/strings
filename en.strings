@@ -224,6 +224,8 @@
 "save_changes" = "Save changes";
 "account_name_placeholder" = "Name";
 "account_email_placeholder" = "Email";
+
+"old_password" = "Old password";
 "account_password_placeholder" = "New password";
 "account_repeat_placeholder" = "Repeat new password";
 "accept_user_terms" = "I accept the Terms of Service";
