@@ -230,6 +230,7 @@
 "account_repeat_placeholder" = "Repeat new password";
 "accept_user_terms" = "I accept the Terms of Service";
 "accept_user_terms_link_highlight" = "Terms of Service";
+"accept_user_terms_link" = "http://www.ibikecph.dk/terms?locale=en";
 
 "login_error_fields" = "You must enter both your e-mail and your password!";
 "register_error_fields" = "You must fill out all the fields!";
