@@ -407,3 +407,7 @@
 "shift" = "Skift";
 
 "intro_subtitle" = "Hurtigt fra A til B";
+
+"gps_off" = "GPS'en er deaktiveret. For at kunne lokalisere din position skal GPS'en være aktiveret.";
+"activate_gps" = "Aktiver GPS";
+"leave_no_gps" = "Deaktiver GPS";
