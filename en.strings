@@ -230,7 +230,7 @@
 "account_repeat_placeholder" = "Repeat new password";
 "accept_user_terms" = "I accept the Terms of Service";
 "accept_user_terms_link_highlight" = "Terms of Service";
-"accept_user_terms_link" = "http://www.ibikecph.dk/terms?locale=en";
+"accept_user_terms_link" = "http://www.ibikecph.dk/en/terms";
 
 "login_error_fields" = "You must enter both your e-mail and your password!";
 "register_error_fields" = "You must fill out all the fields!";
@@ -289,6 +289,7 @@
 "tracking_option" = "Collect cycling data";
 "tracking_milestone_notifications" = "Notification about milestones";
 "tracking_weekly_status_notifications" = "Weekly status";
+"log_in_to_track_prompt" = "To start collecting data, you must login.";
 
 "unit_km" = "km";
 "unit_km_pr_h" = "km/h";
