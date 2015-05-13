@@ -296,6 +296,7 @@
 "unit_km_pr_h" = "km/h";
 "unit_km_pr_trip" = "km/trip";
 "unit_h_long" = "hours";
+"unit_h_long_singular" = "hour";
 "unit_h_short" = "h";
 "unit_min" = "min";
 "dum_km" = "55.3";
