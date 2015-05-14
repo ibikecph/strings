@@ -1,6 +1,4 @@
 "current_position" = "Current position";
-"today" = "Today";
-"tomorrow" = "Tomorrow";
 "account" = "Account";
 "settings" = "Settings";
 "contacts" = "Contacts";
@@ -329,9 +327,9 @@
 "Max" = "Top";
 "track_list_date_format" = "MMMM d";
 
-"yesterday" = "yesterday";
-"today" = "today";
-"tomorrow" = "tomorrow";
+"Yesterday" = "Yesterday";
+"Today" = "Today";
+"Tomorrow" = "Tomorrow";
 
 "hour_minute_format" = "%dh %02dm";
 

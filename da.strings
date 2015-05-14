@@ -1,6 +1,4 @@
 "current_position" = "Nuværende position";
-"today" = "I dag";
-"tomorrow" = "I morgen";
 "accounts" = "Konto";
 "settings" = "Indstillinger";
 "contacts" = "Kontakter";
@@ -332,9 +330,9 @@
 "Max" = "Top";
 "track_list_date_format" = "d. MMMM";
 
-"yesterday" = "i går";
-"today" = "i dag";
-"tomorrow" = "i morgen";
+"Yesterday" = "I går";
+"Today" = "I dag";
+"Tomorrow" = "I morgen";
 
 "hour_minute_format" = "%dt %02dm";
 
