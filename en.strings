@@ -327,6 +327,7 @@
 "Distance" = "Dist.";
 "Average" = "Avg.";
 "Max" = "Top";
+"track_list_date_format" = "MMMM d";
 
 "yesterday" = "yesterday";
 "today" = "today";

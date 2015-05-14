@@ -330,6 +330,7 @@
 "Distance" = "Afstand";
 "Average" = "Gns.";
 "Max" = "Top";
+"track_list_date_format" = "d. MMMM";
 
 "yesterday" = "i går";
 "today" = "i dag";
