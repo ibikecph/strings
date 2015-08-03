@@ -307,6 +307,7 @@
 "unit_h_long_singular" = "time";
 "unit_h_short" = "t";
 "unit_min" = "min";
+"unit_cal" = "Cal";
 "dum_km" = "55,3";
 "dum_kmh" = "23,3";
 "dum_kcaltrip" = "38,1";
