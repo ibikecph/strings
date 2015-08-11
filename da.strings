@@ -1,3 +1,7 @@
+"startup_welcome" = "Velkommen.\nAktiver indsamling og deling af data";
+"startup_explanation = "Indsaml dine cykeldata og se hvor og hvor meget du cykler til dagligt. Få ugentlige beskeder og opnå milepæle når du cykler.\n\nDine cykeldata blever delt anonymt med Københavns Kommune og Regions Hovedstaden og er med til skabe ny viden om cykeladfærd. Viden som gør at vi kan skabe bedre cykelforhold i og omkring København.";
+"startup_readmore" = "Læs mere";
+
 "current_position" = "Nuværende position";
 "accounts" = "Konto";
 "settings" = "Indstillinger";
