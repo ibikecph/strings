@@ -191,6 +191,14 @@
 "favorites_work_placeholder" = "Work address ...";
 "log_in" = "Log In";
 
+"save_password" = "Save password";
+"use_password" = "Use password";
+"track_token_title" = "Sikkerhedskode";
+"track_token_headline" = "Vi går op i at dine data er anonyme!";
+"track_token_description_native" = "NATIVE: For at sikre at dine data kan deles med Københavns Kommune og Regions Hovedstaden, uden vi kan kæde dem sammen med dig, har vi brug for t du oprette et kodeord kun du kender.";
+"track_token_description_facebook_new" = "FB NEW: For at sikre at dine data kan deles med Københavns Kommune og Regions Hovedstaden, uden vi kan kæde dem sammen med dig, har vi brug for t du oprette et kodeord kun du kender.";
+"track_token_description_facebook_has_token" = "FB HAS: For at sikre at dine data kan deles med Københavns Kommune og Regions Hovedstaden, uden vi kan kæde dem sammen med dig, har vi brug for t du oprette et kodeord kun du kender.";
+
 "add_favorite" = "Add a favorite";
 "cell_add_favorite" = "Add new favorite";
 "edit_favorite" = "Edit";
