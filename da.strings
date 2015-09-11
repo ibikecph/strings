@@ -198,9 +198,11 @@
 "use_password" = "Brug kodeord";
 "track_token_title" = "Sikkerhedskode";
 "track_token_headline" = "Vi går op i at dine data er anonyme!";
-"track_token_description_native" = "NATIVE: For at sikre at dine data kan deles med Københavns Kommune og Regions Hovedstaden, uden vi kan kæde dem sammen med dig, har vi brug for t du oprette et kodeord kun du kender.";
-"track_token_description_facebook_new" = "FB NEW: For at sikre at dine data kan deles med Københavns Kommune og Regions Hovedstaden, uden vi kan kæde dem sammen med dig, har vi brug for t du oprette et kodeord kun du kender.";
-"track_token_description_facebook_has_token" = "FB HAS: For at sikre at dine data kan deles med Københavns Kommune og Regions Hovedstaden, uden vi kan kæde dem sammen med dig, har vi brug for t du oprette et kodeord kun du kender.";
+"track_token_subtitle_native" = "Du er logget ind som";
+"track_token_description_native" = "For at sikre, at dine data kan deles anonymt med Københavns Kommune og Region Hovedstaden, har vi brug for at du skriver din adgangskode igen.";
+"track_token_subtitle_facebook" = "Du er logget ind via Facebook som";
+"track_token_description_facebook_new" = "For at sikre at dine data kan deles anonymt med Københavns Kommune og Region Hovedstaden, har vi brug for at du opretter et kodeord, kun du kender.";
+"track_token_description_facebook_has_token" = "For at kunne hente dine data skal du skrive det kodeord du har opgivet da du aktiverede indsamling af cykeldata.";
 
 "add_favorite" = "Tilføj favorit";
 "cell_add_favorite" = "Tilføj ny favorit";
