@@ -258,8 +258,8 @@
 
 "error_duplicate_favorite_name" = "Du har allerede en favorit med dette navn. Omdøb din favorit og gem igen.";
 
-"delete_account_title" = "Slet konto?";
-"delete_account_text" = "Alle dine favoritter samt din historik vil blive slettet";
+"delete_account_title" = "Slet din konto?";
+"delete_account_text" = "Dine favoritter samt dine indsamlede cykeldata vil blive slettet helt.";
 "Delete" = "Slet";
 "account_deleted" = "Din konto er blevet slettet";
 "close" = "LUK";
