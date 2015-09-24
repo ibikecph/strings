@@ -190,6 +190,7 @@
 "favorites_home_placeholder" = "Home address ...";
 "favorites_work_placeholder" = "Work address ...";
 "log_in" = "Log In";
+"edit_account" = "Edit account";
 
 "save_password" = "Save password";
 "use_password" = "Use password";
@@ -257,6 +258,7 @@
 
 "delete_account_title" = "Delete your account?";
 "delete_account_text" = "Your favourites and your tracked bicycle data will be deleted completely.";
+"delete_account_text_facebook_tracking" = "Your favourites and your tracked bicycle data will be deleted completely.\nYou need to provide the password you have stated previously when activating tracking.";
 "Delete" = "Delete";
 "account_deleted" = "Your account has been deleted";
 "close" = "Close";

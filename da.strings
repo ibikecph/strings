@@ -193,6 +193,7 @@
 "favorites_home_placeholder" = "Hjemmeadresse ...";
 "favorites_work_placeholder" = "Arbejdsadresse ...";
 "log_in" = "Log ind";
+"edit_account" = "Redigér profil";
 
 "save_password" = "Gem kodeord";
 "use_password" = "Brug kodeord";
@@ -260,6 +261,7 @@
 
 "delete_account_title" = "Slet din konto?";
 "delete_account_text" = "Dine favoritter samt dine indsamlede cykeldata vil blive slettet helt.";
+"delete_account_text_facebook_tracking" = "Dine favoritter samt dine indsamlede cykeldata vil blive slettet helt. \nDu skrive det kodeord du har opgivet da du aktiverede indsamling af cykeldata.";
 "Delete" = "Slet";
 "account_deleted" = "Din konto er blevet slettet";
 "close" = "LUK";
