@@ -205,6 +205,7 @@
 "track_token_description_facebook_has_token" = "To be able to access your data, you need to provide the password you choose when activating collection of bike data.";
 
 "add_favorite" = "Add a favorite";
+"new_favorite" = "Add";
 "cell_add_favorite" = "Add new favorite";
 "edit_favorite" = "Edit";
 "cell_empty_favorite_text" = "You have no favorites, but you can easily add one now.";
