@@ -297,7 +297,7 @@
 "tracking" = "Tracking of bicycle data";
 "enable_tracking" = "Enable";
 "enable_tracking_description" = "Start tracking bicycle data";
-"enable_tracking_explanation" = "When you enable Tracking of bicycle data, data about your bike behavior are stored locally on your phone. Data is also stored anonymously on our servers, so they can be used to e.g. improve green waves for cyclists. You can delete your data again at any time.";
+"enable_tracking_explanation" = "When you enable tracking of bicycle data, data about your bike behavior are stored locally on your phone. Data is also stored anonymously on our servers, so they can be used to e.g. improve green waves for cyclists. You can delete your data again at any time.";
 "no_tracking_description" = "Unfortunately your phone doesn't support the tracking of bicycle data.";
 "no_tracking_explanation" = "Currently tracking of bicycle data is only supported on iPhone 5s or newer, and Android phones.";
 "stats_description" = "Your bike activity";
@@ -305,7 +305,7 @@
 "tracking_option" = "Track bicycle data";
 "tracking_milestone_notifications" = "Notification about milestones";
 "tracking_weekly_status_notifications" = "Weekly status";
-"log_in_to_track_prompt" = "To start the tracking of bicycle data, you must login.";
+"log_in_to_track_prompt" = "To start tracking bicycle data, you must login.";
 "reenable_tracking" = "Re-enable tracking of bicycle data";
 
 "enable" = "Enable";
@@ -433,4 +433,4 @@
 "activate_gps" = "Turn GPS On";
 "leave_no_gps" = "Leave GPS off";
 
-"play_services_version_error" = "To tracking bicycle data, please update Google Play Services";
+"play_services_version_error" = "To track bicycle data, please update Google Play Services";
