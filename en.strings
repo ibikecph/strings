@@ -150,7 +150,6 @@
 "To" = "To";
 "hello_cyclist" = "Hi cyclist";
 "thanks_for_testing_text" = "Thank you for helping us test.";
-"start_text" = "Cykelruteplanlæggeren.\nWe are glad you are helping us test the app, and in order to get in touch with you, we would like to ask for your email address:";
 "e_mail_address" = "E-mail address";
 "start_app" = "Start";
 "notify_me_when_fixed" = "Notify me when fixed";
@@ -309,7 +308,7 @@
 "reenable_tracking" = "Re-enable tracking of cycling data";
 
 "enable" = "Enable";
-"launch_activate_tracking_title" = "Hi cyclist!.\nActivate tracking of cycling data";
+"launch_activate_tracking_title" = "Hi cyclist!\nActivate tracking of cycling data";
 "launch_activate_tracking_title_no_welcome" = "Activate tracking and sharing of cycling data";
 "launch_activate_tracking_description" = "See where and how much you bike. Get weekly notifications and notifications when you reach milestones.\n\nAt the same time, share your data anonymously with the City of Copenhagen and the Capital Region of Denmark so data can be used to e.g. improve green waves for cyclists.";
 "launch_activate_tracking_read_more" = "Read more";
@@ -424,7 +423,6 @@
 "arrival" = "Arr.";
 
 "thanks_for_testing_text" = "Thank you for helping testing.";
-"start_text" = "Cykelruteplanlæggeren.\nWe are happy that you will help us test the app. To get in contact with you, we will need your email please:";
 "report_text" = "By tapping \"Report\" the information of the route will be sent to us. \n\nIf you choose to get notified once the error is correct, your email will be included.";
 
 "intro_subtitle" = "Quickly from A to B";
