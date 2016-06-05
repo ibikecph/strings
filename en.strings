@@ -96,6 +96,8 @@
 "direction_number_10" = "10th";
 "direction_number_11" = "11th";
 
+"read_aloud_enabled" = "Reading aloud enabled";
+
 "new_route" = "Route";
 "Start" = "Start";
 "Stop" = "Stop";
