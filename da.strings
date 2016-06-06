@@ -97,6 +97,7 @@
 "direction_number_11" = "11.";
 
 "read_aloud_enabled" = "Højtlæsning aktiveret";
+"read_aloud_unsupported_language" = "Enheden understøtter desværre ikke oplæsning på dansk";
 
 "new_route" = "Rute";
 "Start" = "Start";
