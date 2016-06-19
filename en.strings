@@ -103,6 +103,8 @@
 "read_aloud_error_initalizing" = "Could not start the text-to-speech service.";
 "read_aloud_error_unsupported_language" = "Unfortunately, the device does not support text to speech in English";
 
+"meters" = "meters";
+
 "new_route" = "Route";
 "Start" = "Start";
 "Stop" = "Stop";

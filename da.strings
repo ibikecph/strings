@@ -103,6 +103,8 @@
 "read_aloud_error_initalizing" = "Kunne ikke starte tekst-til-tale-tjenesten.";
 "read_aloud_error_unsupported_language" = "Enheden understøtter desværre ikke oplæsning på dansk.";
 
+"meters" = "meter";
+
 "new_route" = "Rute";
 "Start" = "Start";
 "Stop" = "Stop";
