@@ -104,6 +104,7 @@
 "read_aloud_error_unsupported_language" = "Unfortunately, the device does not support text to speech in English";
 "read_aloud_encouragement_time_h_m" = "You're on the right track. Arriving in %@ %@, %@ %@.";
 "read_aloud_encouragement_time_m" = "You're on the right track. Arriving in %@ %@.";
+"read_aloud_recalculating_route" = "Recalculating route.";
 
 "new_route" = "Route";
 "Start" = "Start";
