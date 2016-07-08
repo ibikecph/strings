@@ -26,8 +26,8 @@
 "direction_15" = "You have reached your destination";
 "direction_16" = "Start pushing your bike on";
 "direction_17" = "Stop pushing your bike";
-"direction_18" = "%@: Take %@ to %@";
-"direction_19" = "Get off on %@";
+"direction_18" = "On %@: Take %@ to %@";
+"direction_19" = "Get off on";
 "direction_100" = "Reaching destination";
 
 "first_direction_0" = "";
@@ -48,6 +48,8 @@
 "first_direction_15" = "You have reached your destination";
 "first_direction_16" = "Head %@ and start pushing your bike on";
 "first_direction_17" = "Head %@ and stop pushing your bike";
+"first_direction_18" = "On %@: Take %@ to %@";
+"first_direction_19" = "Get off on";
 "first_direction_100" = "Reaching destination";
 
 "direction_N" = "north";

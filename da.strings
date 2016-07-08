@@ -26,8 +26,8 @@
 "direction_15" = "Ankomst til destinationen";
 "direction_16" = "Træk cyklen";
 "direction_17" = "Fortsæt på cyklen";
-"direction_18" = "%@: Tag %@ til %@";
-"direction_19" = "Stå af på %@";
+"direction_18" = "På %@: Tag %@ til %@";
+"direction_19" = "Stå af på";
 "direction_100" = "Du nærmer dig destinationen";
 
 "first_direction_0" = "";
@@ -48,6 +48,8 @@
 "first_direction_15" = "Ankomst til destinationen";
 "first_direction_16" = "Kør mod %@ og træk cyklen";
 "first_direction_17" = "Gå mod %@ og fortsæt på cykel";
+"first_direction_18" = "På %@: Tag %@ til %@";
+"first_direction_19" = "Stå af på";
 "first_direction_100" = "Du nærmer dig destinationen";
 
 "direction_N" = "nord";
