@@ -98,7 +98,7 @@
 "direction_number_10" = "10.";
 "direction_number_11" = "11.";
 
-"read_aloud_upcoming_instruction" = "Om %@ meter";
+"read_aloud_upcoming_instruction" = "Om %@ %@";
 "read_aloud_enabled" = "Starter rute til %@.";
 "read_aloud_error_initalizing" = "Kunne ikke starte tekst-til-tale-tjenesten.";
 "read_aloud_error_unsupported_language" = "Enheden understøtter desværre ikke oplæsning på dansk.";
@@ -354,6 +354,10 @@
 "dum_kmh" = "23,3";
 "dum_kcalday" = "78,1";
 "dum_h" = "14,3";
+"unit_metre" = "meter";
+"unit_metres" = "meter";
+"unit_kilometre" = "kilometer";
+"unit_kilometres" = "kilometer";
 
 "milestone_distance_1_description" = "Sådan! Du har cyklet dine første %d km.";
 "milestone_distance_2_description" = "%d km, det begynder at ligne noget!";
