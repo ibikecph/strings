@@ -304,6 +304,11 @@
 "vehicle_3" = "Færge";
 "vehicle_4" = "Tog";
 
+"vehicle_changed_instruction_1" = "Hop på cyklen og ";
+"vehicle_changed_instruction_2" = "Hop af cyklen, træk og ";
+"vehicle_changed_instruction_3" = "Stig ombord på færgen og ";
+"vehicle_changed_instruction_4" = "Stig ombord på toget og  ";
+
 "voice_option" = "Oplæs rute";
 "voice_option_detail" = "Oplæsning af rute giver dig mulighed for at få oplæst ruteinstruktionerne. Bruger du hovedtelefoner? Husk at være opmærksom på trafikken og overhold færdselsreglerne. ";
 
