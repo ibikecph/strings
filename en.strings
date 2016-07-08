@@ -302,7 +302,7 @@
 "vehicle_3" = "Ferry";
 "vehicle_4" = "Train";
 
-"vehicle_changed_instruction_0" = "Park the bike ";
+"vehicle_changed_instruction_0" = "Park the bike. ";
 "vehicle_changed_instruction_1" = "Get on the bike and ";
 "vehicle_changed_instruction_2" = "Get off the bike, walk and ";
 "vehicle_changed_instruction_3" = "Go aboard the ferry and ";

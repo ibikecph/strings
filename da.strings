@@ -305,7 +305,7 @@
 "vehicle_3" = "Færge";
 "vehicle_4" = "Tog";
 
-"vehicle_changed_instruction_0" = "Parker cyklen ";
+"vehicle_changed_instruction_0" = "Parker cyklen. ";
 "vehicle_changed_instruction_1" = "Hop på cyklen og ";
 "vehicle_changed_instruction_2" = "Hop af cyklen, træk og ";
 "vehicle_changed_instruction_3" = "Stig ombord på færgen og ";
