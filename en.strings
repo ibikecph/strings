@@ -467,40 +467,38 @@
 
 // OSRM v5 instructions
 
-"depart" = "Head {{heading}} on {{name}}"
-"arrive_to_via" = "Via point reached, {{name}} is {{side}}"
-"depart_from_via" = "Continue heading {{heading}} on {{name}}"
+"depart" = "Head {{heading}} on {{name}}";
 "arrive" = "Destination reached, {{name}} is {{side}}"
 
 "turn_uturn" = "Make a u-turn onto {{name}}"    
-"turn_sharp_right" = "Sharp right onto {{name}}"
-"turn_right" = "Right onto {{name}}"
-"turn_slight_right" = "Keep right onto {{name}}"
-"turn_straight" = "Continue straight onto {{name}}"
-"turn_sharp_left" = "Sharp left onto {{name}}"
-"turn_left" = "Left onto {{name}}"
+"turn_sharp_right" = "Sharp right onto {{name}}";
+"turn_right" = "Right onto {{name}}";
+"turn_slight_right" = "Keep right onto {{name}}";
+"turn_straight" = "Continue straight onto {{name}}";
+"turn_sharp_left" = "Sharp left onto {{name}}";
+"turn_left" = "Left onto {{name}}";
 "turn_slight_left" = "Keep left onto {{name}}"
 
 "merge_uturn" = "U-turn merging onto {{name}}"    
-"merge_sharp_right" = "Merge sharp right onto {{name}}"
-"merge_right" = "Merge right onto {{name}}"
-"merge_slight_right" = "Merge slight right onto {{name}}"
-"merge_straight" = "Merge straight onto {{name}}"
-"merge_left" = "Merge left onto {{name}}"
-"merge_slight_left" = "Merge slight left onto {{name}}"
+"merge_sharp_right" = "Merge sharp right onto {{name}}";
+"merge_right" = "Merge right onto {{name}}";
+"merge_slight_right" = "Merge slight right onto {{name}}";
+"merge_straight" = "Merge straight onto {{name}}";
+"merge_left" = "Merge left onto {{name}}";
+"merge_slight_left" = "Merge slight left onto {{name}}";
 "merge_sharp_left" = "Merge sharp right onto {{name}}"
 
-"on_ramp" = "Take on ramp {{name}}"
+"on_ramp" = "Take on ramp {{name}}";
 "off_ramp" = "Off ramp {{name}}"
 
 "continue_uturn" = "U-turn on {{name}}"    
-"continue_sharp_right" = "Sharp right continuing on {{name}}"
-"continue_right" = "Right continuing on {{name}}"
-"continue_slight_right" = "Slight right continuing on {{name}}"
-"continue_straight" = "Straight continuing on {{name}}"
-"continue_left" = "Left continuing on {{name}}"
-"continue_slight_left" = "Slight left continuing on {{name}}"
+"continue_sharp_right" = "Sharp right continuing on {{name}}";
+"continue_right" = "Right continuing on {{name}}";
+"continue_slight_right" = "Slight right continuing on {{name}}";
+"continue_straight" = "Straight continuing on {{name}}";
+"continue_left" = "Left continuing on {{name}}";
+"continue_slight_left" = "Slight left continuing on {{name}}";
 "continue_sharp_left" = "Sharp left continuing on {{name}}"
 
-"roundabout" = "At roundabout take %{exit} exit onto {{name}}"
-"rotary" = "At roundabout take %{exit} exit onto {{name}}"
+"roundabout" = "At roundabout take %{exit} exit onto {{name}}";
+"rotary" = "At roundabout take %{exit} exit onto {{name}}";
