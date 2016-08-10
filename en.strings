@@ -63,7 +63,7 @@
 "direction_W" = "west";
 "direction_NW" = "northwest";
 
-"{highway:}" = "street"
+"{highway:}" = "street";
 "{highway:motorway}" = "motorway";
 "{highway:motorway_link}" = "motorway";
 "{highway:trunk}" = "trunk road";
