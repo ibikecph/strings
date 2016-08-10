@@ -471,6 +471,15 @@
 "depart" = "Head {{heading}} on {{name}}";
 "arrive" = "Destination reached, {{name}} is {{side}}";
 
+"heading_uturn" = "the opposite direction";
+"heading_sharp_right" = "sharp to the right";
+"heading_right" = "to the right";
+"heading_slight_right" = "slight to the right";
+"heading_straight" = "straight ahead";
+"heading_sharp_left" = "sharp to the left";
+"heading_left" = "to the left";
+"heading_slight_left" = "slight to the left";
+
 "turn_uturn" = "Make a u-turn onto {{name}}";
 "turn_sharp_right" = "Turn sharp right onto {{name}}";
 "turn_right" = "Turn right onto {{name}}";
