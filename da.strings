@@ -61,6 +61,7 @@
 "direction_W" = "vest";
 "direction_NW" = "nordvest";
 
+"{highway:}" = "vej"
 "{highway:motorway}" = "motorvej";
 "{highway:motorway_link}" = "motorvej";
 "{highway:trunk}" = "hovedvej";
