@@ -312,7 +312,7 @@
 "vehicle_changed_instruction_1" = "Hop på cyklen og ";
 "vehicle_changed_instruction_2" = "Hop af cyklen, træk og ";
 "vehicle_changed_instruction_3" = "Stig ombord på færgen og ";
-"vehicle_changed_instruction_4" = "Stig ombord på toget og  ";
+"vehicle_changed_instruction_4" = "Stig ombord på toget og ";
 
 "voice_option" = "Oplæs rute";
 "voice_option_detail" = "Oplæsning af rute giver dig mulighed for at få oplæst ruteinstruktionerne. Bruger du hovedtelefoner? Husk at være opmærksom på trafikken og overhold færdselsreglerne. ";
@@ -525,3 +525,7 @@
 
 "roundabout" = "Ved rundkørsel tag %{exit} afkørsel ad {{name}}";
 "rotary" = "Ved rundkørslen tag %{exit} afkørsel ad {{name}}";
+
+// OSRMv5 - break route instructions
+"depart_with_train" = "tag linje {{description}} fra {{name}}";
+"arrive_with_train" = "ankomst til {{name}} klokken {{arrivalTime}}";
